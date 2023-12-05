@@ -1,0 +1,6 @@
+{
+  "name": "clincial-data-transformations",
+  "dependencies": {
+    "@dataform/core": "2.4.2"
+  }
+}
