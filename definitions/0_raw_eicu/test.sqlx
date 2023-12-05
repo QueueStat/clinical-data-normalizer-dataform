@@ -1,0 +1,7 @@
+config {
+    type: 'view',
+    schema: '1_raw_eicu',
+    name: 'test'
+}
+
+SELECT admissiondrugid FROM `clinical-data-normalizer.0_raw_eicu.admission_drug`
